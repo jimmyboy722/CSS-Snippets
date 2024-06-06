@@ -1,14 +1,8 @@
-*{
-margin: 0;
-box-sizing: border-box;
-padding: 0;
-}
-
-
 :root {
     --purple: rgb(154, 63, 239);
     --white: #ffffff;
 }
+
 body{
     background-color: rgb(68, 70, 66);
 }
@@ -40,14 +34,10 @@ background-color: blue;
     text-align: center;
 }
 
-/* @media screen and (max-width: 992px ){ */
-    /* header{ */
-        width: 75% ;
-    }
     .css-snippet{
         width: 25%;
     }
-}
+
 
 .container{
    width: 100px;
